@@ -1,4 +1,4 @@
-登录minebbs并返回金粒等信息（签到）
+登录minebbs并返回金粒等信息（自动签到）
 
 需要的模块:requests,bs4,datetime,logging,configparser
 
